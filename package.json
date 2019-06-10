@@ -1,0 +1,22 @@
+{
+	"name": "Theme-ArtNouveau",
+	"displayName": "ArtNouveau Theme",
+	"description": "ArtNouveau Theme ported from the ArtSchool TextMate Theme",
+	"version": "0.0.1",
+	"publisher": "dlb",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "ArtNouveau",
+				"uiTheme": "vs",
+				"path": "./themes/ArtNouveau.tmTheme"
+			}
+		]
+	}
+}
